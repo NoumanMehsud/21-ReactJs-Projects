@@ -3,7 +3,7 @@ This is a collection of 21 interesting React.Js projects. From beginner to advan
 
 ---
 Let's see our project overview:-
-- Beginner or Easy Projects
+- NOT Beginner or Easy Projects
 - Intermediate Projects
 - Advance Projects
 
